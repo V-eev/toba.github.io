@@ -1,0 +1,35 @@
+.Navigasi{
+    background-color: gray;
+}
+
+.ul-Navigasi{
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-Navigasi{   
+    padding: 20px;
+    margin: 5px;
+    color: white;
+    font-size: 30px;
+    list-style-type: none;
+}
+
+.li-Navigasi:hover {
+    background-color:white;
+    transition: .5s ease-in-out;
+    transition-delay: .1;
+    border-radius: 8px;
+
+}
+
+.a-Navigasi{
+    color: black;
+    text-decoration: none;
+}
+
+.on-ol{
+    background-color: white;
+}
